@@ -89,7 +89,7 @@
       <h2 class="mail-form__title">Получить СОУТ-инструкцию</h2>
       <div class="mail-form__subtitle">Что делать работодателю после проведения специальной оценки условий труда</div>
       <div class="mail-form__inner">
-        <form class="download-pdf__form form" action="../all_files/mail.php" data-goal="mailplus" data-aggregatable="13B3C92B-3642-4238-AF69-89426D4541FE" data-title="Получить СОУТ-инструкцию Что делать работодателю после проведения специальной оценки условий труда">
+        <form class="download-pdf__form form" action="../all_files/mail.php" data-goal="mailplus" data-aggregatable="6d962f01-a5ff-432f-aad9-9a0b2de71071" data-title="Получить СОУТ-инструкцию Что делать работодателю после проведения специальной оценки условий труда">
           <div class="form__inner">
             <div class="form__input-wrapper">
               <input data-aggregatable="client[full_name]" class="form__input form__input--text form__name" type="text" placeholder="Имя" required="required" />
@@ -169,7 +169,7 @@
       <h2 class="expert__title">Консультация эксперта</h2>
       <div class="expert__subtitle">Задайте Ваш вопрос по процедуре специальной оценки условий труда</div>
       <div class="expert__inner">
-        <form class="expert__form form" action="../all_files/mail.php" data-goal="expcons" data-aggregatable="98DDF147-DB19-4562-8692-5243A31037D7" data-title="Консультация эксперта">
+        <form class="expert__form form" action="../all_files/mail.php" data-goal="expcons" data-aggregatable="cc09b883-3c63-49bb-9410-54c6d4d763c6" data-title="Консультация эксперта">
           <div class="form__inner expert__form--inner">
             <h3 class="form__title">Заполнить заявку</h3>
             <div class="form__input-wrapper">
@@ -262,7 +262,7 @@
       <div class="calculation__inner">
         <h2 class="calculation__title">Рассчитать стоимость СОУТ</h2>
         <div class="calculation__subtitle"> Загрузите штатное расписание - получите расчет СОУТ с учетом аналогичных рабочих мест.</div>
-        <form class="calculation__form form" action="../all_files/mail.php" data-goal="calcult" data-aggregatable="67F0FBD2-F24F-4235-9368-5D6A74F4BF15" data-title="Расчет по СОУТ">
+        <form class="calculation__form form" action="../all_files/mail.php" data-goal="calcult" data-aggregatable="dcaf22ba-aa55-4ce8-b86a-1c13407176ba" data-title="Расчет по СОУТ">
           <div class="form__inner calculation__form--inner">
             <div class="form__input-wrapper">
               <input data-aggregatable="client[full_name]" class="form__input form__input--color form__input--text form__name" type="text" placeholder="Имя" required="required" />
@@ -347,7 +347,7 @@
     <div class="modal__inner">
       <div class="modal__close">Закрыть</div>
       <div class="modal__title">Обратный звонок</div>
-      <form class="modal__form form" action="../all_files/mail.php" data-goal="callback" data-aggregatable="8ED3A367-10B5-41BE-9D06-64A6F4272DC5" data-title="Обратный звонок">
+      <form class="modal__form form" action="../all_files/mail.php" data-goal="callback" data-aggregatable="73df7f84-d3a3-4c71-919e-eadafc1f56db" data-title="Обратный звонок">
         <div class="form__input-wrapper form__input-wrapper--modal">
           <input data-aggregatable="client[full_name]" class="form__input form__input--modal form__name" type="text" placeholder="Имя" required="required" />
           <div class="form__error">Не верно заполнено поле</div>
